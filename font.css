@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Apis';
-    src: url('Apis-Bold.woff') format('woff');
+    src: url('https://unpkg.com/browse/apis-font@0.0.7/fonts/apis-bold.woff') format('woff');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
